@@ -29,7 +29,7 @@ alt="Click Here" width="240" height="180" border="10" /></a>
 |Name|Advantages|Disadvantages|
 |---|---|---|---|
 |Table|Looks Neat|None What-so-ever|
-|Other stuff|More stuff|Yet even more
+|Other stuff|More stuff|Yet even more|
 
 i wanna make a list;
 
